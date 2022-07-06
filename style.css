@@ -256,8 +256,16 @@ footer {
 }
 
 .footer-h3 {
-    padding-bottom: 20px;
+    padding-bottom: 0px;
     margin-bottom: 0;
+    margin-bottom: 20px;
     text-align: center;
     color: white;
+}
+
+.footer-p {
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    margin: 0;
 }
