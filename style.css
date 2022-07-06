@@ -1,0 +1,258 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    padding: 0px;
+}
+
+.top-section {
+    background-image: url(img/environment-day-reforesting-eco.jpg);
+    background-size: cover;
+    height: 90vh;
+}
+
+.top-section-h3 {
+    margin: 0;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 200px;
+    color: #A5E1AD;
+}
+
+.top-section-h1 {
+    font-size: 100px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    color: #E4E5DB;
+}
+
+.top-section-p {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    font-size: 20px;
+    color: white;
+}
+
+.btn-donate {
+    text-decoration: none;
+    font-size: 25px;
+    padding: 12px;
+    border-radius: 3px;
+}
+
+.btn-1 {
+    margin-left: 45%;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    background-color: #D49B54;
+    color: white;
+}
+
+.donate-h2 {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 150px;
+}
+
+.donate-para {
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.flex-div {
+    display: flex;
+
+}
+
+.donate-p {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 50px;
+    color: black;
+    background-color: #EAF6F6;
+    width: 10%;
+    padding: 30px 0px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px grey;
+}
+
+.selected {
+    background-color: #FFDEDE;
+    border: 3px solid #EB4747;
+}
+
+.usd-amount {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.input-amount {
+    border: none;
+    border-bottom: 1px solid grey;
+    font-size: 20px;
+    text-align: center;
+    width: 700px;
+    margin-bottom: 50px;
+}
+
+.input-amount:focus {
+    outline: none !important;
+}
+
+.donate-plan-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.donate-plan-h2 {
+    font-size: 50px;
+    margin: auto 0;
+}
+
+.donate-plane-p {
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+}
+
+.div-plan-flex {
+    display: flex;
+
+}
+
+.flex-b {
+    font-size: 30px;
+    color: black;
+    text-align: left;
+    padding-left: 20px;
+    margin-top: 0;
+}
+
+.flex-p {
+    color: #FAF0D7;
+    text-align: left;
+    padding-left: 20px;
+
+}
+
+.div-plan-flex-item {
+    margin-left: 100px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: #90C8AC;
+    box-shadow: 5px 5px 20px grey;
+}
+
+.icon {
+    height: 50px;
+    width: 50px;
+    padding: 50px 10px;
+}
+
+.about {
+    display: flex;
+}
+
+.about-div {
+    margin-top: 200px;
+}
+
+.about-div img {
+    padding-left: 100px;
+    height: 600px;
+    width: 900px;
+}
+
+.about-p {
+    font-size: 25px;
+    text-align: center;
+    color: #D49B54;
+
+}
+
+.about-h2 {
+    text-align: center;
+    font-size: 50px;
+    margin-left: 100px;
+}
+
+.about-p2 {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 25%;
+    margin-bottom: 100px;
+    width: 500px;
+}
+
+.contact {
+    margin-top: 100px;
+}
+
+.contact-h2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.contact-p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.contact-div {
+    background-color: #EFEFEF;
+    width: 1000px;
+    height: 180px;
+    margin: 100px auto;
+
+}
+
+.mail-input {
+    border: none;
+    background-color: #C9BBCF;
+    font-size: 20px;
+    text-align: center;
+    height: 50px;
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 65px;
+
+}
+
+.mail-input:focus {
+    outline: none !important;
+}
+
+.contact-btn {
+    border: none;
+    font-size: 20px;
+    background-color: #B7D3DF;
+    height: 50px;
+    margin-left: -3px;
+}
+
+footer {
+    margin-top: 200px;
+}
+
+.footer-div {
+    background-color: yellowgreen;
+    height: 200px;
+    padding-top: 20px;
+}
+
+.footer-h1 {
+    font-size: 50px;
+    font-family: URW Chancery L, cursive;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.footer-h3 {
+    padding-bottom: 20px;
+    margin-bottom: 0;
+    text-align: center;
+}
