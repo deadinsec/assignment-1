@@ -239,7 +239,7 @@ footer {
 }
 
 .footer-div {
-    background-color: yellowgreen;
+    background-color: #774360;
     height: 200px;
     padding-top: 20px;
 }
@@ -249,10 +249,12 @@ footer {
     font-family: URW Chancery L, cursive;
     text-align: center;
     margin-top: 50px;
+    color: white;
 }
 
 .footer-h3 {
     padding-bottom: 20px;
     margin-bottom: 0;
     text-align: center;
+    color: white;
 }
