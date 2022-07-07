@@ -63,17 +63,17 @@ body {
 
 .flex-div {
     display: flex;
-
+    justify-content: center;
 }
 
 .donate-p {
     text-align: center;
-    margin: 0 auto;
     font-size: 50px;
     color: black;
     background-color: #EAF6F6;
     width: 10%;
     padding: 30px 0px;
+    margin-left: 15px;
     border-radius: 5px;
     box-shadow: 5px 5px 20px grey;
 }
@@ -121,8 +121,17 @@ body {
 
 .div-plan-flex {
     display: flex;
-
+    justify-content: center;
 }
+
+.div-plan-flex-item {
+    width: 350px;
+    margin-left: 100px;
+    border-radius: 5px;
+    background-color: #90C8AC;
+    box-shadow: 5px 5px 20px grey;
+}
+
 
 .flex-b {
     font-size: 30px;
@@ -139,13 +148,6 @@ body {
 
 }
 
-.div-plan-flex-item {
-    margin-left: 100px;
-    width: 500px;
-    border-radius: 5px;
-    background-color: #90C8AC;
-    box-shadow: 5px 5px 20px grey;
-}
 
 .icon {
     height: 50px;
